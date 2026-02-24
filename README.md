@@ -18,3 +18,4 @@ EpinelPS一键端，无需分布启动
 检测账号：PC账户是否处于微软账号并生成到相应桌面（微软账号登录后会出现:驱动盘\OneDrive\Desktop，而未登录的桌面为：驱动盘\Desktop）
 
 视频教程：https://www.bilibili.com/video/BV1baksBdEQW/
+<img width="1113" height="626" alt="e33cc90e-90e7-4abc-ab47-3cdb5ce0630a" src="https://github.com/user-attachments/assets/e4647d3c-adeb-4ab7-8cdd-9a98bc09188c" />
