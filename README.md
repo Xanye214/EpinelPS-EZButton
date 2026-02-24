@@ -19,3 +19,6 @@ EpinelPS一键端，无需分布启动
 
 视频教程：https://www.bilibili.com/video/BV1baksBdEQW/
 <img width="1113" height="626" alt="e33cc90e-90e7-4abc-ab47-3cdb5ce0630a" src="https://github.com/user-attachments/assets/e4647d3c-adeb-4ab7-8cdd-9a98bc09188c" />
+
+使用教程：
+将脚本放置在任意位置后使用Win11操作系统右键终端打开。如果出现闪退等情况需要在右键开始<img width="133" height="49" alt="a7e40c7d-74b6-4b9e-bd67-fe2b931fb5c0" src="https://github.com/user-attachments/assets/1be11175-eaa7-47b0-81b5-a73f91d352b0" />选择终端管理员，在终端中执行Set-ExecutionPolicy RemoteSigned -Scope CurrentUser即可解决闪退问题
